@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "257947562077",
+    "firebase_url": "https://media-capture-app.firebaseio.com",
+    "project_id": "media-capture-app",
+    "storage_bucket": "media-capture-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257947562077:android:b81552a9d2a5d33f6cddb4",
+        "android_client_info": {
+          "package_name": "com.jonnyramen.mediacaptureapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257947562077-agpq7jh3smifnl4ieugbm34j9sq7na2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCSEt3W0Q8nPYteT8t66Aw0QuFHKcXZRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257947562077-agpq7jh3smifnl4ieugbm34j9sq7na2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
